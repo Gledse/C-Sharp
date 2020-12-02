@@ -1,0 +1,9 @@
+E:\Projetos do C#\Processar salarios\processar salarios\processar salarios\bin\Debug\processar salarios.exe.config
+E:\Projetos do C#\Processar salarios\processar salarios\processar salarios\bin\Debug\processar salarios.exe
+E:\Projetos do C#\Processar salarios\processar salarios\processar salarios\bin\Debug\processar salarios.pdb
+E:\Projetos do C#\Processar salarios\processar salarios\processar salarios\obj\Debug\processar salarios.csprojResolveAssemblyReference.cache
+E:\Projetos do C#\Processar salarios\processar salarios\processar salarios\obj\Debug\processar_salarios.Form1.resources
+E:\Projetos do C#\Processar salarios\processar salarios\processar salarios\obj\Debug\processar_salarios.Properties.Resources.resources
+E:\Projetos do C#\Processar salarios\processar salarios\processar salarios\obj\Debug\processar salarios.csproj.GenerateResource.Cache
+E:\Projetos do C#\Processar salarios\processar salarios\processar salarios\obj\Debug\processar salarios.exe
+E:\Projetos do C#\Processar salarios\processar salarios\processar salarios\obj\Debug\processar salarios.pdb
