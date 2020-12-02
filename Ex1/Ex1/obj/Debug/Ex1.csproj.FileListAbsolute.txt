@@ -1,0 +1,9 @@
+E:\Projetos do C#\WindowsFormsApplicationC#\Ex1\Ex1\bin\Debug\Ex1.exe.config
+E:\Projetos do C#\WindowsFormsApplicationC#\Ex1\Ex1\bin\Debug\Ex1.exe
+E:\Projetos do C#\WindowsFormsApplicationC#\Ex1\Ex1\bin\Debug\Ex1.pdb
+E:\Projetos do C#\WindowsFormsApplicationC#\Ex1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+E:\Projetos do C#\WindowsFormsApplicationC#\Ex1\Ex1\obj\Debug\Ex1.Form1.resources
+E:\Projetos do C#\WindowsFormsApplicationC#\Ex1\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+E:\Projetos do C#\WindowsFormsApplicationC#\Ex1\Ex1\obj\Debug\Ex1.csproj.GenerateResource.Cache
+E:\Projetos do C#\WindowsFormsApplicationC#\Ex1\Ex1\obj\Debug\Ex1.exe
+E:\Projetos do C#\WindowsFormsApplicationC#\Ex1\Ex1\obj\Debug\Ex1.pdb
