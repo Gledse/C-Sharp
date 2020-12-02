@@ -1,0 +1,6 @@
+E:\Projetos do C#\Edson\Edson\bin\Debug\Edson.exe.config
+E:\Projetos do C#\Edson\Edson\bin\Debug\Edson.exe
+E:\Projetos do C#\Edson\Edson\bin\Debug\Edson.pdb
+E:\Projetos do C#\Edson\Edson\obj\Debug\Edson.csprojResolveAssemblyReference.cache
+E:\Projetos do C#\Edson\Edson\obj\Debug\Edson.exe
+E:\Projetos do C#\Edson\Edson\obj\Debug\Edson.pdb
