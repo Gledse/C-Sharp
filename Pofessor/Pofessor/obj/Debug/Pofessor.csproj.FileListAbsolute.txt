@@ -1,0 +1,8 @@
+E:\Projetos do C#\Pofessor\Pofessor\bin\Debug\Pofessor.exe.config
+E:\Projetos do C#\Pofessor\Pofessor\bin\Debug\Pofessor.exe
+E:\Projetos do C#\Pofessor\Pofessor\bin\Debug\Pofessor.pdb
+E:\Projetos do C#\Pofessor\Pofessor\obj\Debug\Pofessor.csprojResolveAssemblyReference.cache
+E:\Projetos do C#\Pofessor\Pofessor\obj\Debug\Pofessor.exe
+E:\Projetos do C#\Pofessor\Pofessor\obj\Debug\Pofessor.pdb
+E:\Projetos do C#\Pofessor\Pofessor\obj\Debug\Pofessor.csproj.GenerateResource.Cache
+E:\Projetos do C#\Pofessor\Pofessor\obj\Debug\Pofessor.FormularioDoProfessor.resources
